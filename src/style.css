@@ -1,0 +1,60 @@
+body
+{
+    width: 270px;
+    height: 300px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+strong
+{
+    font-weight: bold;
+}
+
+#wrap
+{
+    padding: 10px;
+}
+
+select
+{
+    font-size: 12px;
+}
+
+h2
+{
+    font-size: 12px;
+    margin-top: 5px;
+    display: inline-block;
+}
+
+#rating
+{
+    margin-top: 10px;
+    font-size: 82px;
+    text-align: center;
+    font-family: Verdana;
+    padding: 5px 0;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+
+#precautions
+{
+    font-size: 11px;
+    margin-top: 10px;
+    font-style: italic;
+    text-align: center;
+}
+
+#asat
+{
+    margin-top: 10px;
+    font-size: 11px;
+}
+
+#links
+{
+    margin-top: 40px;
+    font-size: 9px;
+}
